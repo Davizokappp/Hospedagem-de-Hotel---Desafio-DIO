@@ -1,0 +1,14 @@
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\bin\Debug\net8.0\HOSPEDAGEM DE HOTEL.exe
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\bin\Debug\net8.0\HOSPEDAGEM DE HOTEL.deps.json
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\bin\Debug\net8.0\HOSPEDAGEM DE HOTEL.runtimeconfig.json
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\bin\Debug\net8.0\HOSPEDAGEM DE HOTEL.dll
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\bin\Debug\net8.0\HOSPEDAGEM DE HOTEL.pdb
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\obj\Debug\net8.0\HOSPEDAGEM DE HOTEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\obj\Debug\net8.0\HOSPEDAGEM DE HOTEL.AssemblyInfoInputs.cache
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\obj\Debug\net8.0\HOSPEDAGEM DE HOTEL.AssemblyInfo.cs
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\obj\Debug\net8.0\HOSPEDAGEM DE HOTEL.csproj.CoreCompileInputs.cache
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\obj\Debug\net8.0\HOSPEDAGEM DE HOTEL.dll
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\obj\Debug\net8.0\refint\HOSPEDAGEM DE HOTEL.dll
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\obj\Debug\net8.0\HOSPEDAGEM DE HOTEL.pdb
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\obj\Debug\net8.0\HOSPEDAGEM DE HOTEL.genruntimeconfig.cache
+C:\Projetos VSC\HOSPEDAGEM DE HOTEL\obj\Debug\net8.0\ref\HOSPEDAGEM DE HOTEL.dll
